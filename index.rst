@@ -2,7 +2,7 @@
 Epson Printer Driver Setup
 ===============================
 
-Visit `https://www.epson.com/Support <https://www.epson.com/Support>`_ to download and install the latest Epson printer drivers! Follow our step-by-step guide to get your printer working smoothly with the correct drivers.
+Visit `https://www.epson.com/Support <#>`_ to download and install the latest Epson printer drivers! Follow our step-by-step guide to get your printer working smoothly with the correct drivers.
 
 .. raw:: html
 
@@ -25,14 +25,14 @@ Where to Get Epson Drivers
 -----------------------------
 
 To download official Epson printer drivers, go to:  
-`https://www.epson.com/Support <https://www.epson.com/Support>`_
+`https://www.epson.com/Support <#>`_
 
 Step-by-step guide to Download and Install Epson Drivers
 -----------------------------------------------
 
 **Step 1: Visit Epson’s Support Website**  
 
-Go to `https://www.epson.com/Support <https://www.epson.com/Support>`_ in your browser.
+Go to `https://www.epson.com/Support <#>`_ in your browser.
 
 **Step 2: Search for Your Printer Model**  
 
@@ -59,7 +59,7 @@ If you encounter problems, try these tips:
 - **Try a Different Browser** – Some browsers may block downloads  
 - **Temporarily Disable Antivirus** – It can sometimes interfere with installations  
 - **Restart Devices** – Reboot both your computer and printer  
-- **Contact Epson Support** – Visit `https://www.epson.com/Support <https://www.epson.com/Support>`_ for help
+- **Contact Epson Support** – Visit `https://www.epson.com/Support <#>`_ for help
 
 Benefits of Using the Right Epson Drivers
 --------------------------------------------
@@ -82,7 +82,7 @@ FAQs
 
 **1. Where do I download Epson drivers?**  
 
-You can download official drivers here:  `https://www.epson.com/Support <https://www.epson.com/Support>`_
+You can download official drivers here:  `https://www.epson.com/Support <#>`_
 
 **2. What info do I need before downloading?**  
 
