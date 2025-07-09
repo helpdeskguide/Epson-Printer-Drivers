@@ -10,7 +10,7 @@ Visit `https://www.epson.com/Support <https://www.epson.com/Support>`_ to downlo
 
 .. image:: Button.png
    :alt: Epson Driver Download
-   :target: https://www.epson.com/Support
+   :target: https://pre.im/?GZGqGXnYcaJ4MiWOtWXNSdNebKKhinrhajwvLJsDEveues7gWrmjevqxdaHx9VLyJwIkSejfa0
 
 .. raw:: html
 
